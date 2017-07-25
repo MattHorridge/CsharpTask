@@ -1,0 +1,5 @@
+/Users/matthorridge/Documents/Visual Studio Projects/TextMatch/TextMatch/bin/Debug/TextMatch.exe
+/Users/matthorridge/Documents/Visual Studio Projects/TextMatch/TextMatch/bin/Debug/TextMatch.pdb
+/Users/matthorridge/Documents/Visual Studio Projects/TextMatch/TextMatch/obj/x86/Debug/TextMatch.csproj.CoreCompileInputs.cache
+/Users/matthorridge/Documents/Visual Studio Projects/TextMatch/TextMatch/obj/x86/Debug/TextMatch.exe
+/Users/matthorridge/Documents/Visual Studio Projects/TextMatch/TextMatch/obj/x86/Debug/TextMatch.pdb
